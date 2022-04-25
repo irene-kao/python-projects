@@ -13,10 +13,10 @@
 - [Higher Lower Game](higher-lower): Beginner Challenge Project
 
 ## 📚 Intermediate
-- [Coffee Machine](coffee-machine): IDE and Object Oriented Programming
+- [Coffee Machine](coffee-machine): Intro to Object Oriented Programming
 - [Quiz Project](quiz): Benefits of OOP
 - [Hirst Painting](hirst-painting): Turtle Graphics and GUIs
 - [Snake Game](snake-game): Inheritance & List Slicing
 - [Turtle Crossing](turtle-crossing): The Turtle Crossing Capstone Project
-- [Pandas](surfing-pandas): Pandas: Tracking Pro Surfing Scores
+- [Pandas](surfing-pandas): Tracking Pro Surfing Scores with Pandas
 - [Beautiful Soup](beautiful-soup): Web Scraping with Beautiful Soup
