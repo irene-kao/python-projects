@@ -27,6 +27,6 @@
 - [Squirrel Counter](Squirrel_Count): Pandas and CSV
 - [U.S. States Game](US_States_Game): Working with CSV Data
 - [Random Walk](Random_Walk): Numpy and Matplotlib
-- [Graphing The Office](The_Office_Graph): Data Analysis with Pandas and Matplotlib
+- [The Office Data Analysis](The_Office_Graph): Data Analysis with Pandas and Matplotlib
 - [NATO Alphabet](NATO_Alphabet): List Comprehension
 - [YC Scraper](YC_Scraper): Web Scraping with Beautiful Soup
