@@ -2,7 +2,7 @@
 <h1 align="center">Python Projects 🐍</h1>
 </p>
 
-<p> This is a collection a python projects I've completed while self-learning python. Most of the projects are from the Udemy course <a href=https://www.udemy.com/course-dashboard-redirect/?course_id=2776760>100 Days of Code: The Complete Python Pro Bootcamp.</a> The course helped me gain a solid understanding of python in a fun and practical way. While the course includes 100 projects, I only included the more substantial projects here.</a>
+<p> This is a collection a python projects I've completed while self-learning python. Most of the projects are from the Udemy course <a href=https://www.udemy.com/course-dashboard-redirect/?course_id=2776760>100 Days of Code: The Complete Python Pro Bootcamp.</a> The course helped me gain a solid understanding of python in a fun and practical way. I've included my favorite projects from the course here.</a>
 
 ## 📕 Beginner
 - [Penguin Story Game](Penguin_Story_Game): Control Flow and Logical Operators
