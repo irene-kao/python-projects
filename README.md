@@ -23,7 +23,7 @@
 - [Etch-a-sketch](Etch-a-sketch): Instances, State and Higher order Functions
 - [Turtle Race](Turtle_Race): The Turtle Crossing Capstone Project
 - [Mail Merge](Mail_Merge): Files, Directories and Paths
-- [Pandas](Surfer_Score_Generator): Tracking Pro Surfing Scores with Pandas
+- [Surfer Scores](Surfer_Score_Generator): Tracking Pro Surfing Scores with Pandas
 - [Squirrel Counter](Squirrel_Count): Pandas and CSV
 - [U.S. States Game](US_States_Game): Working with CSV Data
 - [Random Walk](Random_Walk): Numpy and Matplotlib
